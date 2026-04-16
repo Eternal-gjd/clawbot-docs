@@ -6,6 +6,7 @@
 
 - [OpenClaw CLI 命令参考手册](/openclaw-cli-command-reference)
 - [OpenAI Codex 安装配置指南](/openai-codex-installation)
+- [Hermes开源实战指南](/hermes-open-source-guide)
 
 ## 适合放什么
 
